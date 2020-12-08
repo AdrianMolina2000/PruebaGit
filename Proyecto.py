@@ -8,3 +8,5 @@ print("German")
 print("Hola")
 print("Hola 2")
 #Parte 4
+print("funcion de la parte 4")
+
