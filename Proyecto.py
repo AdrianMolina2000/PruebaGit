@@ -5,5 +5,6 @@ def numeros():
 #Parte 2
 print("German")
 #Parte 3
-
+print("Hola")
+print("Hola 2")
 #Parte 4
